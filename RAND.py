@@ -3,7 +3,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = np.linspace(0, 2, 128)
+x = np.linspace(0, 3, 4096)
 D = np.genfromtxt('RAND.data')
 plt.plot(x, D[0], label=r'$D_{1, 1}$')
 plt.plot(x, D[1], label=r'$D_{1, 2}$')
