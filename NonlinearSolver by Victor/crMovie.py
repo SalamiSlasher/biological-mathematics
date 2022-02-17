@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#dddd
 import matplotlib.pyplot as plt
 from subprocess import run
 import numpy as np
