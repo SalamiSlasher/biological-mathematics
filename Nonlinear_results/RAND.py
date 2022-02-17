@@ -1,20 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-'''
-plt.plot(range(0, 10))
-Initial axes limits are 0, 10
-
-scale_factor = 5
-
-xmin, xmax = plt.xlim()
-ymin, ymax = plt.ylim()
-
-plt.xlim(xmin * scale_factor, xmax * scale_factor)
-plt.ylim(ymin * scale_factor, ymax * scale_factor)
-
-'''
-
 scale_factor = 0.0099
 
 xmin, xmax = plt.xlim()
